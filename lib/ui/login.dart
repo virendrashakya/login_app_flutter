@@ -68,7 +68,7 @@ class LoginState extends State<Login> {
                     ),
                     obscureText: true,
                   ),
-                  new Padding(padding: EdgeInsets.all(10.5)),
+                  new Padding(padding: EdgeInsets.all(10.6)),
                   new Center(
                     child: new Row(
                       children: <Widget>[
